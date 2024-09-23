@@ -1,7 +1,5 @@
-# GUI 프로그래밍 2024
+# 웹 서버 프로그래밍 2024
 
-# Week 03. MFC
+# Week 03. CSS
 
-https://nano5.notion.site/Week03-MFC-1dbd9152b7db46a3b7ed7496253a7526?pvs=4
-
-asd
+https://nano5.notion.site/CSS-105daf211d428041a6abc14516c6269d?pvs=4
